@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/QuizAPI.csproj": {}
+    "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/Quiz.Webapi.csproj": {}
   },
   "projects": {
-    "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/QuizAPI.csproj": {
+    "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/Quiz.Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/QuizAPI.csproj",
-        "projectName": "QuizAPI",
-        "projectPath": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/QuizAPI.csproj",
+        "projectUniqueName": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/Quiz.Webapi.csproj",
+        "projectName": "Quiz.Webapi",
+        "projectPath": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/Quiz.Webapi.csproj",
         "packagesPath": "/Users/cass/.nuget/packages/",
         "outputPath": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/obj/",
         "projectStyle": "PackageReference",

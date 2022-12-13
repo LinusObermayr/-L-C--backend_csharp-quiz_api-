@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cass/Projects/QuizAPI/QuizAPI/QuizAPI.csproj",
-      "projectName": "QuizAPI",
-      "projectPath": "/Users/cass/Projects/QuizAPI/QuizAPI/QuizAPI.csproj",
+      "projectUniqueName": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/Quiz.Webapi.csproj",
+      "projectName": "Quiz.Webapi",
+      "projectPath": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/Quiz.Webapi.csproj",
       "packagesPath": "/Users/cass/.nuget/packages/",
-      "outputPath": "/Users/cass/Projects/QuizAPI/QuizAPI/obj/",
+      "outputPath": "/Users/cass/Desktop/-L-C--backend_csharp-quiz_api-/QuizAPI/QuizAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cass/.nuget/NuGet/NuGet.Config"
